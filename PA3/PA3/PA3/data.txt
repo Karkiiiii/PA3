@@ -1,0 +1,9 @@
+4 47 pass
+Ice Cream
+20 1
+ball
+20 10
+cup
+20 3
+noodle
+19 6
